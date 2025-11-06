@@ -21,3 +21,5 @@ In order to run this project, you must do the following:
 4. Create a terminal, and run `cd client`, `npm install`, then `npm run dev`
 5. Create a terminal, and run `cd server`, `npm install`, then `npm run dev`
 6. Open http://localhost:3000
+
+Extremely important message to commit
